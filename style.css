@@ -22,6 +22,11 @@ nav ul {
   padding: 7px 0px;
   text-align: right;
   vertical-align: middle;
+  align-items: center;
+  display: flex;
+  flex-basis: auto;
+  justify-content: flex-end;
+  max-width: 100%;
 }
 
 .header-top {
