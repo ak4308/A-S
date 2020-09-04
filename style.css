@@ -55,14 +55,6 @@ nav ul {
   text-align: right;
 }
 
-.title {
-  align-items: center;
-  box-sizing: border-box;
-  justify-content: center;
-  text-align: left;
-  padding: 0px 20px;
-}
-
 h1 {
   font-family: 'Helvetica', sans-serif;
   font-size: 56px;
