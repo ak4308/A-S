@@ -37,6 +37,15 @@ nav ul {
   text-align: center;
 }
 
+.top-left {
+  text-align: left;
+  display: flex;
+  flex-basis: auto;
+  justify-content: flex-start;
+  float: left;
+  align-items: center;
+}
+
 .top-right {
   align-items: center;
   display: flex;
