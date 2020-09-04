@@ -28,16 +28,22 @@ nav {
 nav ul {
   display: inline-block;
   font-family: 'Helvetica', sans-serif;
-  font-size: 12px;
-  color: black;
-  text-align: right;
-  vertical-align: middle;
   align-items: center;
   display: flex;
   flex-basis: auto;
   justify-content: flex-end;
   max-width: 100%;
-  padding: 10px;
+  list-style-type: disc;
+}
+
+li {
+  display: inline-block;
+  font-size: 12px;
+  color: black;
+  margin: 0px 7px;
+  padding: 7px 0px;
+  text-align: right;
+  vertical-align: middle;
 }
 
 h1 {
