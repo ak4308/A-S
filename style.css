@@ -13,8 +13,9 @@ nav {
   padding: 10px;
 }
 
-nav li {
+nav ul {
   display: inline-block;
+  font-family: 'Helvetica', sans-serif;
   font-size: 20px;
   color: black;
   margin: 0px 7px;
